@@ -14,7 +14,7 @@
 	"config": {
 		"type": "app",
 		"category": "apps",
-		"name": "lampa-Player",
+		"name": "lampa",
 		"legacy": true,
 		"description": "lampa - Бесплатный кинотеатр",
 		"backgroundColor": "#00C8DA",
