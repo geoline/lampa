@@ -1,0 +1,23 @@
+{
+	"name": "LAMPA",
+	"date": "2024.01.17",
+	"version": "1.0.2",
+	"description": "LAMPA - Бесплатный кинотеатр",
+	"author": {
+		"name": "geoline"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/geoline/MSXPlayer.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "lampa-Player",
+		"legacy": true,
+		"description": "lampa - Бесплатный кинотеатр",
+		"backgroundColor": "#00C8DA",
+		"icons": "icons"
+	}
+}
